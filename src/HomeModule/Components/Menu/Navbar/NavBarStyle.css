@@ -1,0 +1,35 @@
+a.login-button {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 16px;
+    padding: 10px 10px 5px 10px;
+    background: #000;
+    display: inline-block;
+}
+a.login-button:hover {
+    background: #fc4a04 !important;
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+
+.main-top {
+    margin-top: 40px;
+    position: absolute !important;
+    z-index: 5;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.459);
+}
+
+.main-top li a:hover {
+    color: chocolate !important;
+}
+.main-top h1 a:hover {
+    color: chocolate !important;
+}
+
+.bgHome, .bgNews {
+    background-color: tomato;
+}
+
+

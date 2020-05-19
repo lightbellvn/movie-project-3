@@ -1,0 +1,38 @@
+.heading .searchHeader {
+   
+    padding-left: 15px;
+    border-left: 1px dotted rgba(255, 255, 255, .5);
+  
+}
+.heading a{
+    text-decoration: none;
+}
+
+
+
+.heading .sign_up, .heading .searchHeader {
+    font-size: 13px !important;
+    
+    display: flex;
+    float: right;
+    color: #fff;
+}
+.heading .sign_up{
+    margin-right: 15px;
+}
+
+.heading{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.87);
+    
+}
+.heading .sign_up a:hover {
+    color: rgb(163, 95, 40) !important;
+}
+.heading .searchHeader a:hover {
+    color: rgb(163, 95, 40) !important;
+}

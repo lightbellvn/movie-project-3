@@ -1,0 +1,4 @@
+export const SIGN_UP_VALIDATION = 'SIGN_UP_VALIDATION';
+export const USER_SIGN_UP = 'USER_SIGN_UP';
+export const RESET_FORM_SIGN_UP = 'RESET_FORM_SIGN_UP'
+
